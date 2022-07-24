@@ -1,0 +1,229 @@
+
+.vc_row.wpb_row.vc_row-fluid.vc_row-no-padding {
+	clear: both;
+}
+.widget ul li {
+	border-bottom: 1px solid #ccc;
+	width: 100%;
+	float: left;
+	padding: 10px 0;
+	list-style:none;
+}
+.widget ul li:last-child {
+	border: 0px;
+}
+
+.widget.widget-search > form {position:relative;}
+.widget.widget-search input {
+    border: 1px solid #cccccc;
+    padding: 5px 10px;
+    width: 100%;
+}
+
+.widget.widget-search .btn-submit {
+    border: 0 none;
+    padding: 6px 15px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: 99;
+}
+
+
+
+
+.widget .cp-post-tools li, .widget .cp-post-box .cp-text .post-meta li {
+	border: 0 none;
+	float: left;
+	font-size: 13px;
+	line-height: 24px;
+	padding: 0 7px 0 0;
+	width: auto;
+	margin: 0px;
+}
+ .widget .cp-post-tools li:0last-child, .widget .cp-post-box .cp-text .post-meta li:last-child {
+padding:0px;
+}
+.widget .cp-post-tools li .fa, .widget .cp-post-tools li i, .widget .post-meta li .fa, .widget .post-meta li i {
+	margin-right: 5px;
+}
+.widget .recent-post .img-frame, .widget.latest-posts .cp-thumb, .eventco_popular_post .cp-post-box .cp-thumb {
+	float: left;
+	height: 60px;
+	margin-right: 15px;
+	width: 60px;
+	background: #333;
+}
+.widget .recent-post strong {
+	display: inline-block;
+	margin-bottom: 10px;
+}
+.widget .recent-post strong a {
+	color: #222;
+}
+.widget .recent-post .text-area .fa {
+	margin-right: 5px;
+}
+.widget.latest-posts .small-post h3, .widget .recent-post strong {
+	font-size: 16px !important;
+}
+.widget .cp-post-content, .widget .cp-sidebar-content .cp-text {
+	float: left;
+	width: 70%;
+}
+.widget select {
+	background: #ffffff;
+	border: 1px solid #cccccc;
+	display: block;
+	padding: 10px;
+	width: 100%;
+}
+.widget .calendar_wrap {
+	width: 100%;
+	border: 1px solid #ccc;
+	background: #fff;
+}
+.widget .calendar_wrap table {
+	width: 100%;
+}
+.widget .calendar_wrap th, .widget .calendar_wrap td {
+	text-align: center;
+	padding: 5px;
+}
+.widget .calendar_wrap caption {
+	color: #fff;
+	font-weight: 700;
+	padding: 10px 0;
+	text-align: center;
+	background: #ccc;
+	margin-bottom: 10px;
+}
+.textwidget img {
+	height: auto;
+	max-width: 100%;
+	margin: 10px 0;
+}
+.widget-listed li a, .widget_archive li a, .widget_categories li a, .widget_pages li a, .widget_meta li a, .widget_recent_comments li a, .widget_nav_menu li a {
+	color: #222;
+}
+.widget-listed li:before, .widget_archive li:before, .widget_categories li:before, .widget_pages li:before, .widget_meta li:before, .widget_recent_comments li:before, .widget_nav_menu li:before {
+	content: "\f0da";
+	font-family: FontAwesome;
+	margin-right: 8px;
+}
+.widget .children, .widget .sub-menu {
+	padding: 0 0 0 20px;
+	position:inherit;
+	
+}
+
+.widget ul.sub-menu li ul.sub-menu {position:inherit; left:inherit; top:inherit}
+
+
+
+
+/*===========================================================================*/
+						/*Footer Css*/
+/*===========================================================================*/
+.cp-footer .widget ul li {
+	border-bottom: 1px solid #444444;
+	width: 100%;
+	float: left;
+	padding: 10px 0;
+	color: #999999;
+}
+.cp-footer .widget ul li:last-child {
+	border: 0px;
+}
+.cp-footer .widget ul li a {
+	color: #999999;
+}
+.cp-footer .widget .post-meta li, .cp-footer .widget .post-meta li a {
+	color: #999;
+}
+.cp-footer .widget_rss h4 .rsswidget {
+	color: #fff;
+}
+.cp-footer .widget .cp-post-tools li, .cp-footer .widget .cp-post-box .cp-text .post-meta li {
+	border: 0 none;
+	float: left;
+	font-size: 13px;
+	line-height: 24px;
+	margin: 0;
+	padding: 0 8px;
+	width: auto;
+}
+
+.textwidget p, .textwidget p strong {color:#999999;}
+
+.tagcloud a {
+    color: #ffffff;
+    display: inline-block;
+    font-size: 14px !important;
+    margin: 0 0 5px;
+    padding: 5px 10px;
+}
+
+
+.content_sidebar {margin:60px 0;}
+
+
+
+
+
+/*===========================================================================*/
+						/*VC Widgets Css*/
+/*===========================================================================*/
+
+.cp-wrapper .wpb_wrapper .widget ul {
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
+.cp-wrapper .wpb_wrapper .widget ul li {
+	list-style: none;
+}
+.cp-wrapper .wpb_wrapper .widget .cp-post-tools li {
+	font-size: 14px;
+}
+.cp-wrapper .wpb_wrapper .widget table, .cp-wrapper .wpb_wrapper .widget table th, .cp-wrapper .wpb_wrapper .widget table td {
+	border: 0px;
+}
+.cp-wrapper .wpb_wrapper .widget .children, .cp-wrapper .wpb_wrapper .widget .sub-menu {
+	padding: 0 0 0 20px;
+}
+.widget .woocommerce-product-search .screen-reader-text {
+	display: none;
+}
+.widget .woocommerce-product-search {
+	position: relative;
+}
+.widget .woocommerce-product-search #woocommerce-product-search-field {
+	background: #fff;
+	border: 2px solid #ccc;
+}
+.widget .woocommerce-product-search > input[type="submit"] {
+	border: 0 none;
+	height: 36px;
+	padding: 0 10px;
+	position: absolute;
+	right: 0;
+	top: 0;
+	text-transform: uppercase;
+	color: #fff;
+}
+
+
+
+.widget.widget-flickr ul li {width:50%; float:left; border:0px; padding:5px;}
+
+
+
+
+
+
+
+
+
+
+

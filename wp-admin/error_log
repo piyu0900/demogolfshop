@@ -1,0 +1,12 @@
+[27-Mar-2018 10:37:02 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/priyanka0900/public_html/dev/golfshop/wp-content/themes/golf/functions.php on line 975
+[27-Mar-2018 10:37:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/priyanka0900/public_html/dev/golfshop/wp-content/themes/golf/functions.php on line 975
+[27-Mar-2018 10:38:14 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/priyanka0900/public_html/dev/golfshop/wp-content/themes/golf/functions.php on line 961
+[27-Mar-2018 10:38:16 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/priyanka0900/public_html/dev/golfshop/wp-content/themes/golf/functions.php on line 961
+[27-Mar-2018 10:38:51 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/priyanka0900/public_html/dev/golfshop/wp-content/themes/golf/functions.php on line 961
+[27-Mar-2018 10:42:10 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/priyanka0900/public_html/dev/golfshop/wp-content/themes/golf/functions.php on line 969
+[27-Mar-2018 10:42:12 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/priyanka0900/public_html/dev/golfshop/wp-content/themes/golf/functions.php on line 969
+[27-Mar-2018 10:42:54 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/priyanka0900/public_html/dev/golfshop/wp-content/themes/golf/functions.php on line 967
+[27-Mar-2018 10:42:56 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/priyanka0900/public_html/dev/golfshop/wp-content/themes/golf/functions.php on line 967
+[27-Mar-2018 10:43:19 UTC] PHP Parse error:  syntax error, unexpected 'remove_menus' (T_STRING) in /home/priyanka0900/public_html/dev/golfshop/wp-content/themes/golf/functions.php on line 1
+[27-Mar-2018 10:43:21 UTC] PHP Parse error:  syntax error, unexpected 'remove_menus' (T_STRING) in /home/priyanka0900/public_html/dev/golfshop/wp-content/themes/golf/functions.php on line 1
+[20-Jun-2022 13:50:31 UTC] PHP Fatal error:  Call to a member function get_instance_option_key() on boolean in /home/priyanka0900/public_html/dev/golfshop/wp-content/plugins/woocommerce/includes/class-wc-ajax.php on line 2429

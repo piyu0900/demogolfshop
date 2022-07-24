@@ -1,0 +1,111 @@
+@font-face {
+    font-family: 'icomoon';
+    src:    url('../golfclub_font/fonts/icomoon84ca.eot?shf801');
+    src:    url('../golfclub_font/fonts/icomoon84ca.eot?shf801#iefix') format('embedded-opentype'),
+        url('../golfclub_font/fonts/icomoon84ca.ttf?shf801') format('truetype'),
+        url('../golfclub_font/fonts/icomoon84ca.woff?shf801') format('woff'),
+        url('../golfclub_font/fonts/icomoon84ca.svg?shf801#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'icomoon' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-bars:before {
+    content: "\e900";
+}
+.icon-cancel:before {
+    content: "\e901";
+}
+.icon-clock:before {
+    content: "\e902";
+}
+.icon-close:before {
+    content: "\e903";
+}
+.icon-cloud:before {
+    content: "\e904";
+}
+.icon-command:before {
+    content: "\e905";
+}
+.icon-drop-down-arrow:before {
+    content: "\e906";
+}
+.icon-facebook:before {
+    content: "\e907";
+}
+.icon-fax:before {
+    content: "\e908";
+}
+.icon-first-prize:before {
+    content: "\e909";
+}
+.icon-first-prize-trophy:before {
+    content: "\e90a";
+}
+.icon-golf-(1):before {
+    content: "\e90b";
+}
+.icon-golf:before {
+    content: "\e90c";
+}
+.icon-golf-cart:before {
+    content: "\e90d";
+}
+.icon-golf-clubs:before {
+    content: "\e90e";
+}
+.icon-medal:before {
+    content: "\e90f";
+}
+.icon-menu:before {
+    content: "\e910";
+}
+.icon-musica-searcher:before {
+    content: "\e911";
+}
+.icon-open-envelope:before {
+    content: "\e912";
+}
+.icon-phone-call:before {
+    content: "\e913";
+}
+.icon-placeholder:before {
+    content: "\e914";
+}
+.icon-play-button-(1):before {
+    content: "\e915";
+}
+.icon-play-button:before {
+    content: "\e916";
+}
+.icon-play-button-inside-a-circle:before {
+    content: "\e917";
+}
+.icon-reply-all:before {
+    content: "\e918";
+}
+.icon-right-arrow:before {
+    content: "\e919";
+}
+.icon-search:before {
+    content: "\e91a";
+}
+.icon-terrace:before {
+    content: "\e91b";
+}
+
